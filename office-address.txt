@@ -1,1 +1,1 @@
-https://developments-homework-reporters-impossible.trycloudflare.com
+https://api.trycloudflare.com
